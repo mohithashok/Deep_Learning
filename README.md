@@ -1,6 +1,6 @@
 # Deep_Learning
 
-A repository for exploring and mastering Deep Learning. I intend to eventually develop AI systems that can help transform the world.
+A repository for exploring and mastering Deep Learning. I intend to eventually develop AI systems that can help transform businesses.
 
 ### Prerequisites
 
