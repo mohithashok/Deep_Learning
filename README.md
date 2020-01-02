@@ -1,10 +1,10 @@
 # Deep_Learning
 
-A repository for exploring and mastering Deep Learning. I intend to eventually develop AI systems that can help transform businesses.
+A repository for exploring and mastering Deep Learning. I hope to be a significant contributor in the journey towards Artificial General Intelligence.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them:
+What packages you need to install and how to install them:
 - Tensorflow 2.0 : Can be installed using the command 'pip install tensorflow==2.0.0-beta1'
 - Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, etc; : Included in the Anaconda distribution of Python
 
@@ -14,7 +14,7 @@ I'm using Python 3.6.5 for all the projects implemented in this repository.
 
 ## Authors
 
-* **Mohith Ashok** - Aspiring Data Scientist/ML Engineer
+* **Mohith Ashok** - Data Scientist
 
 
 ## Acknowledgments
